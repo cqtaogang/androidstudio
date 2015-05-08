@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\pre-dexed\debug\classes-817768cd8a4dd94633cca6519602fc581f456fa2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-5a0eb58dd284528707685bedd936fc5a6795fbd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\libs\ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccebb2cae2c177d6dd91409a7007806d9aa269b4">
+        <dex dex="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.2-jar-with-dependencies-75912fae181e55bdc66d7362b90cf21a0a348f94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Administrator\StudioProjects\SywgWeb2014\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a3793dd85178f5f339758c01fcc6f3c38934327c.jar" />
+    </item>
+
+</items>
